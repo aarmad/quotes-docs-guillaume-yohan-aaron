@@ -6,6 +6,7 @@ Solutions de l'évaluation notée 2 du groupe guillaume-yohan-aaron à l'aide de
 ## Membres du groupe
 
 - `initiateur` : Yohan
+- `contributeur1` : Yohan 
 
 ## URLs des dépôts
 
