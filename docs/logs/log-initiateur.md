@@ -1,8 +1,5 @@
-$ git adog
-* e979b63 (HEAD -> feature-contribX, origin/feature-contribX) Add features.md (Contributor 1)
-* fb331d7 Add features.md (Contributor 1)
-* 28beae7 Complete index.md and README.md (Contributor 1)
-* 3f22176 Ajout de la documentation avec Mkdocs
-* 5b16ddd (origin/main, origin/HEAD, push, main, fetch, fearture-contribX) Initial Commit
-* 044d0cc add deadline
-* 25aea5c (origin/gh-pages, gh-pages) Deployed 5b16ddd with MkDocs version: 1.6.1
+## Log Initiateur
+
+```bash
+<contenu du fichier log-initiateur.txt>
+```
