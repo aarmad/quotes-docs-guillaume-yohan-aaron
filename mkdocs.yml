@@ -1,4 +1,7 @@
+
+site_name: My Docs
+
 site_name: Documentation Programming Quotes guillaume-yohan-aaron
 nav:
   - Home: index.md
-  - Features: features.md
+  - Features: features.m
