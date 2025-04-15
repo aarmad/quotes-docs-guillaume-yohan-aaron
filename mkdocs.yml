@@ -1,3 +1,11 @@
+contribution-contributeur2
+site_name: My Docs
+
+nav:
+  - Home: index.md
+  - Features: features.md
+  - Core Functions: functions.md
+
 
 site_name: My Docs
 
@@ -5,3 +13,4 @@ site_name: Documentation Programming Quotes guillaume-yohan-aaron
 nav:
   - Home: index.md
   - Features: features.m
+main
