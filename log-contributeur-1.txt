@@ -1,3 +1,9 @@
+## Log <role>
+
+```bash
+<contenu du fichier log-<role>.txt>
+```
+
 $ git adog
 * e979b63 (HEAD -> feature-contribX, origin/feature-contribX) Add features.md (Contributor 1)
 * fb331d7 Add features.md (Contributor 1)
