@@ -45,3 +45,9 @@ def menu():
             break
         else:
             print("Invalid input")
+
+nav:
+  - Home: index.md
+  - Features: features.md
+  - Core Functions: functions.md
+  - User Interface: user-interface.md
